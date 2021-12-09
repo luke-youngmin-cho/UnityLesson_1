@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UnityLesson_CSharpScript/1.0.0": {
+        "runtime": {
+          "UnityLesson_CSharpScript.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnityLesson_CSharpScript/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\bin\Debug\netcoreapp3.1\UnityLesson_CSharpScript.exe
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\bin\Debug\netcoreapp3.1\UnityLesson_CSharpScript.deps.json
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\bin\Debug\netcoreapp3.1\UnityLesson_CSharpScript.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\bin\Debug\netcoreapp3.1\UnityLesson_CSharpScript.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\bin\Debug\netcoreapp3.1\UnityLesson_CSharpScript.dll
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\bin\Debug\netcoreapp3.1\UnityLesson_CSharpScript.pdb
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\obj\Debug\netcoreapp3.1\UnityLesson_CSharpScript.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\obj\Debug\netcoreapp3.1\UnityLesson_CSharpScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\obj\Debug\netcoreapp3.1\UnityLesson_CSharpScript.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\obj\Debug\netcoreapp3.1\UnityLesson_CSharpScript.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\obj\Debug\netcoreapp3.1\UnityLesson_CSharpScript.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\obj\Debug\netcoreapp3.1\UnityLesson_CSharpScript.dll
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\obj\Debug\netcoreapp3.1\UnityLesson_CSharpScript.pdb
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharpScript\UnityLesson_CSharpScript\obj\Debug\netcoreapp3.1\UnityLesson_CSharpScript.genruntimeconfig.cache
