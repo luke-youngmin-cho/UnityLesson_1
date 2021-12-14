@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UnityLesoon_CSharp_InstantiationOfClass/1.0.0": {
+        "runtime": {
+          "UnityLesoon_CSharp_InstantiationOfClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnityLesoon_CSharp_InstantiationOfClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
