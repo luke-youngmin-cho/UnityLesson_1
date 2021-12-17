@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.exe
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.deps.json
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.dll
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.pdb
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.dll
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.pdb
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.genruntimeconfig.cache
