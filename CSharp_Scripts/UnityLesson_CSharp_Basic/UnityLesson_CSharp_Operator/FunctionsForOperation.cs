@@ -9,6 +9,13 @@
         {
             return a + b;
         }
+        // 함수 오버로딩
+        // 같은 기능을 수행하는 함수의 이름을 똑같이하고
+        // 인수(arguments) 의 타입만 변경하면 같은 이름의 함수를 여러개 만들 수 있는 기능
+        static public float Sum(float a, float b)
+        {
+            return a + b;
+        }
         static public int Sub(int a, int b)
         {
             return a - b;

@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.exe
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.deps.json
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.runtimeconfig.json
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.runtimeconfig.dev.json
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.dll
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.pdb
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.AssemblyInfo.cs
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.dll
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.pdb
+C:\Users\admin\Documents\GitHub\UnityLesson_1\CSharp_Scripts\UnityLesson_CSharp_Basic\UnityLesson_CSharp_WhileLoop\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_WhileLoop.genruntimeconfig.cache

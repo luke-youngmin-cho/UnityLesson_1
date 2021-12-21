@@ -7,6 +7,9 @@ namespace UnityLesson_CSharp_Operator
         static int a = 14;
         static int b = 5;
         static int c;
+        static float a_f = 13.0f;
+        static float b_f = 2.0f;
+        static float c_f;
         
         static void Main(string[] args)
         {
@@ -16,8 +19,9 @@ namespace UnityLesson_CSharp_Operator
             // 더하기 
             c = FunctionsForOperation.Sum(a, b);
             Console.WriteLine(c);
+            c_f = FunctionsForOperation.Sum(a_f, b_f);
             // 빼기
-            c = a - b;
+            c = FunctionsForOperation.Sub(a, b);
             Console.WriteLine(c);
             // 나누기 , 정수를 나누기하면 결과값에서 소수점은 버린다.
             c = a / b;
