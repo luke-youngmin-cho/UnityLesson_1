@@ -33,7 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ForLoopE
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Collection", "UnityLesson_CSharp_Collection\UnityLesson_CSharp_Collection.csproj", "{14FE18FA-E5C5-4504-865C-705977BB9D96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Enum", "UnityLesson_CSharp_Enum\UnityLesson_CSharp_Enum.csproj", "{F91EC2E4-B0E3-40C4-B05F-A62EE662F6F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Enum", "UnityLesson_CSharp_Enum\UnityLesson_CSharp_Enum.csproj", "{F91EC2E4-B0E3-40C4-B05F-A62EE662F6F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Structure", "UnityLesson_CSharp_Structure\UnityLesson_CSharp_Structure.csproj", "{A9AAE535-41CC-4954-955E-98DF40C05AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_GarbageCollector", "UnityLesson_CSharp_GarbageCollector\UnityLesson_CSharp_GarbageCollector.csproj", "{FCAF63A0-88AB-43D3-B609-0BBDB75A522A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{F91EC2E4-B0E3-40C4-B05F-A62EE662F6F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F91EC2E4-B0E3-40C4-B05F-A62EE662F6F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F91EC2E4-B0E3-40C4-B05F-A62EE662F6F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9AAE535-41CC-4954-955E-98DF40C05AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AAE535-41CC-4954-955E-98DF40C05AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AAE535-41CC-4954-955E-98DF40C05AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AAE535-41CC-4954-955E-98DF40C05AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCAF63A0-88AB-43D3-B609-0BBDB75A522A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCAF63A0-88AB-43D3-B609-0BBDB75A522A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCAF63A0-88AB-43D3-B609-0BBDB75A522A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCAF63A0-88AB-43D3-B609-0BBDB75A522A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
