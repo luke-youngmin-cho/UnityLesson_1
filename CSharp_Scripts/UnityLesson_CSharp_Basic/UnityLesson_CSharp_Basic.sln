@@ -35,9 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Collecti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Enum", "UnityLesson_CSharp_Enum\UnityLesson_CSharp_Enum.csproj", "{F91EC2E4-B0E3-40C4-B05F-A62EE662F6F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Structure", "UnityLesson_CSharp_Structure\UnityLesson_CSharp_Structure.csproj", "{A9AAE535-41CC-4954-955E-98DF40C05AD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Structure", "UnityLesson_CSharp_Structure\UnityLesson_CSharp_Structure.csproj", "{A9AAE535-41CC-4954-955E-98DF40C05AD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_GarbageCollector", "UnityLesson_CSharp_GarbageCollector\UnityLesson_CSharp_GarbageCollector.csproj", "{FCAF63A0-88AB-43D3-B609-0BBDB75A522A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_GarbageCollector", "UnityLesson_CSharp_GarbageCollector\UnityLesson_CSharp_GarbageCollector.csproj", "{FCAF63A0-88AB-43D3-B609-0BBDB75A522A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ClassInheritance", "UnityLesson_CSharp_ClassInheritance\UnityLesson_CSharp_ClassInheritance.csproj", "{BFC724C3-CF85-4A23-86BB-61D083DCBC1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_SOLID", "UnityLesson_CSharp_SOLID\UnityLesson_CSharp_SOLID.csproj", "{00D5D65D-2BAA-4A12-A3A7-16E706B80778}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{FCAF63A0-88AB-43D3-B609-0BBDB75A522A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCAF63A0-88AB-43D3-B609-0BBDB75A522A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCAF63A0-88AB-43D3-B609-0BBDB75A522A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC724C3-CF85-4A23-86BB-61D083DCBC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC724C3-CF85-4A23-86BB-61D083DCBC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC724C3-CF85-4A23-86BB-61D083DCBC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC724C3-CF85-4A23-86BB-61D083DCBC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D5D65D-2BAA-4A12-A3A7-16E706B80778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D5D65D-2BAA-4A12-A3A7-16E706B80778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D5D65D-2BAA-4A12-A3A7-16E706B80778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D5D65D-2BAA-4A12-A3A7-16E706B80778}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
