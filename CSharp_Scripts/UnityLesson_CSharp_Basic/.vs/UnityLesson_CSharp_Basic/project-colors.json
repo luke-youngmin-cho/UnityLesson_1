@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f926c90f-7ec2-456b-9a2d-f574de90418e": {
+      "ProjectGuid": "f926c90f-7ec2-456b-9a2d-f574de90418e",
+      "DisplayName": "UnityLesson_CSharp_Delegate",
+      "ColorIndex": 0
+    },
+    "14fe18fa-e5c5-4504-865c-705977bb9d96": {
+      "ProjectGuid": "14fe18fa-e5c5-4504-865c-705977bb9d96",
+      "DisplayName": "UnityLesson_CSharp_Collection",
+      "ColorIndex": 1
+    },
+    "f91ec2e4-b0e3-40c4-b05f-a62ee662f6f8": {
+      "ProjectGuid": "f91ec2e4-b0e3-40c4-b05f-a62ee662f6f8",
+      "DisplayName": "UnityLesson_CSharp_Enum",
+      "ColorIndex": 2
+    },
+    "caea5eda-d55c-4396-a5f2-2402fb737147": {
+      "ProjectGuid": "caea5eda-d55c-4396-a5f2-2402fb737147",
+      "DisplayName": "UnityLesson_CSharp_HorseRacing",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

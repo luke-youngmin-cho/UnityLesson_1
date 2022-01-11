@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1I05dH7XeF5fDJ4K1Ck/rgXGfcxcw7As28Hsnsl6yN7cfIqTGUw1RY7kJ4iyik1JtfaJNRg415/cBk651dU16g==",
+  "dgSpecHash": "u8xs62Iv7Hy0nVLOKKuoHECk8t7RMMRgaSX4cEum8PK0AgfRXiB/oOE7UrixMBrM5YNemPrYjSlYfvZRF/y+9Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\UnityLesson_1\\CSharp_Scripts\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Collection\\UnityLesson_CSharp_Collection.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\UnityLesson_1\\CSharp_Scripts\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Collection\\UnityLesson_CSharp_Collection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
