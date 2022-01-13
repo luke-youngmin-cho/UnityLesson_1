@@ -20,7 +20,32 @@
       "ProjectGuid": "caea5eda-d55c-4396-a5f2-2402fb737147",
       "DisplayName": "UnityLesson_CSharp_HorseRacing",
       "ColorIndex": 3
+    },
+    "a87910a8-ccf7-4b97-9ed1-01cf209fe190": {
+      "ProjectGuid": "a87910a8-ccf7-4b97-9ed1-01cf209fe190",
+      "DisplayName": "JustTest",
+      "ColorIndex": 4
+    },
+    "253fe671-fdc6-4118-82ee-fc2c0e48221a": {
+      "ProjectGuid": "253fe671-fdc6-4118-82ee-fc2c0e48221a",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 5
+    },
+    "9653d8ca-672a-4bcf-a637-6353fcfa793a": {
+      "ProjectGuid": "9653d8ca-672a-4bcf-a637-6353fcfa793a",
+      "DisplayName": "UnityLesson_CSharp_DiceGame",
+      "ColorIndex": 6
+    },
+    "6b36f896-a158-4b2b-87fa-e030112dc675": {
+      "ProjectGuid": "6b36f896-a158-4b2b-87fa-e030112dc675",
+      "DisplayName": "UnityLesson_CSharp_IF",
+      "ColorIndex": 7
+    },
+    "52bfddf1-c3e8-4796-83d4-5c38685eaa1f": {
+      "ProjectGuid": "52bfddf1-c3e8-4796-83d4-5c38685eaa1f",
+      "DisplayName": "UnityLesson_CSharp_Function",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 9
 }
